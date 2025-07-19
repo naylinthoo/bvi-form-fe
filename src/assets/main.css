@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.multiselect {
+  --ms-bg: #ffffff;
+  --ms-border-color: #d1d5db;
+  --ms-border-color-active: #10b981;
+  /* ... other properties */
+}
