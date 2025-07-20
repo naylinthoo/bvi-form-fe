@@ -206,7 +206,7 @@
             @mark-touched="$emit('mark-touched', $event)"
           />
           <TextInput
-            label="Value per share"
+            label="Value per share (USD)"
             type="number"
             v-model="formData.value_per_share"
             name="value_per_share"
